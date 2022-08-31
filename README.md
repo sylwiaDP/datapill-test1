@@ -22,7 +22,7 @@ Here are some examples:
 
 <img width="1221" alt="Screenshot 2022-08-31 at 16 15 06" src="https://user-images.githubusercontent.com/108238545/187704282-5adb614a-14c4-41ae-9a23-4b1cb45547a9.png">
 
-### What is GitHub for in DATA Pill? 
+### What is DATA Pill GitHub for? 
 
 This repository was created as a place where **anyone can submit interesting content for future editions**. And since it's hard to find a more natural environment for us than GitHub we welcome you to the DATA Pill repository. 
 
