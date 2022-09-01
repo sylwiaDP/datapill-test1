@@ -1,13 +1,20 @@
 # **Welcome to DATA Pill community!**
 
-![DATA Pill mail header](https://user-images.githubusercontent.com/108238545/187696541-edcf76b2-699b-4bfe-b3a8-231019af16e9.jpg)
+![DATA Pill mail header (1)](https://user-images.githubusercontent.com/108238545/187847202-b85d7a12-7aab-4e46-957b-237e4832a626.jpg)
 
 ## **What is DATA Pill?**
 
 DATA Pill is a community where we **share interesting content**: articles, podcasts, videos, upcomming events and all recommendations of **what is useful to us, #devpeople**. 
 
+There are already more than 1,200 of us and we just launched. 
+
 **Every week on Friday we send out a collection of the best Cloud, AI, ML and Big Data content**  recommended by our community and selected by researchers in the **[datapill.tech](https://datapill.tech/)** newsletter.
 
+Remember the Matrix scene where Morpheus gives Neo a choice? 
+You take one pill - nothing changes, you stay in the old, safe world (although it is an illusion).
+You take the other pill - you enter the new world, the Matrix, and gain consciousness.
+
+So take the DATA Pill to enter DATA Matrix and gain awareness of new trends and technologies.
 
 [Here](https://datapill.tech/) You can also find all previous editions of the newsletter. 
 Here are some examples:
@@ -28,5 +35,6 @@ This repository was created as a place where **anyone can submit interesting con
 
 ### How to submit content to DATA Pill?
 
-Add links as a pullrequest with the document in the Proposals folder. Comments, reviews and advices are welcome. 
+If you bump into piece of good content from the Cloud, AI, ML, Big Data area while surfing the web, share it with the community. We would also be happy to share an article of yours. Submit it so it can appear in the upcoming DATA Pill overview this coming Friday. 
+To do so, add links as a pullrequest with the document in the Proposals folder. Comments, reviews and advices are welcome. 
 Any meaty content requisitioned by Thursday will enter the DATA Pill on Friday. 
